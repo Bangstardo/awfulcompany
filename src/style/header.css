@@ -1,0 +1,47 @@
+@import '../index.css';
+
+.navbar {
+    position: fixed;
+    width: 100vw;
+    height: 13vh;
+    background-color: var(--primary-color);
+}
+
+.navbarnav {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;    
+}
+
+.navbarnav:hover {
+    background-color: black;
+}
+
+.navitem {
+    height: 100%;
+    width: 100%;
+    list-style: none;
+}
+
+.navitem:hover {
+    background-color: aqua;
+}
+
+.navlink {
+    text-decoration: none;
+}
+
+.navtext {
+    letter-spacing: 0.3ch;
+    font-size: 20px;
+    font-weight: bold;
+    color: var(--bg-third);
+}
+
+.navtext:hover {
+    background-color: brown;
+}
