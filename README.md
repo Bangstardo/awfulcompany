@@ -1,6 +1,6 @@
 Awful Company is a subdivision of BangstardStudios.
 
-Live demo link will go in here 
+ [Come try](https://awfulcompany.io)
 
 
 
